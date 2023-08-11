@@ -1,0 +1,20 @@
+{
+  "header": [
+    {
+      "text": "Sports",
+      "link": "Sports"
+    },
+    {
+      "text": "Food",
+      "link": "Food"
+    },
+    {
+      "text": "Technology",
+      "link": "Technology"
+    },
+    {
+      "text": "Movies",
+      "link": "Movies"
+    }
+  ]
+}
